@@ -1,0 +1,4 @@
+Temp	KEYWORD1
+Thermister	KEYWORD2
+getTemp	KEYWORD2
+checkTemp	KEYWORD2

@@ -1,0 +1,4 @@
+ReadWrite KEYWORD1
+writeLong	KEYWORD2
+readLong	KEYWORD2
+checkTemp	KEYWORD2

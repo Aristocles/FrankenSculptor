@@ -1,0 +1,4 @@
+Chime	KEYWORD1
+play1	KEYWORD2
+play2	KEYWORD2
+play3	KEYWORD2
